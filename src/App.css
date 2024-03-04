@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+main {
+  background-color: rgba(189, 92, 191, 0.458);
+  padding: 1em;
+  border-radius: 8px;
+}
+input {
+  background-color: rgba(95, 158, 160, 0.608);
+  border-radius: 8px;
+  border-color: transparent;
+  font-size: 25px;
+  text-align: center;
+}
