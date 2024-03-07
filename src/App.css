@@ -1,12 +1,12 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1.5rem;
   text-align: center;
 }
 main {
   background-color: rgba(189, 92, 191, 0.458);
-  padding: 1em;
+  padding: 2em;
   border-radius: 8px;
 }
 input {
